@@ -15,13 +15,16 @@
                 android:endY="100.029"
                 android:tileMode="clamp">
                 <item
-                    android:color="#0052D4"
+                    android:color="#ff8f45"
                     android:offset="0" />
                 <item
-                    android:color="#65C7F7"
-                    android:offset="0.5" />
+                    android:color="#ff3f5e"
+                    android:offset="0.3" />
                 <item
-                    android:color="#9CECFB"
+                    android:color="#c76397"
+                    android:offset="0.7" />
+                <item
+                    android:color="#62cddd"
                     android:offset="1" />
             </gradient>
         </aapt:attr>
